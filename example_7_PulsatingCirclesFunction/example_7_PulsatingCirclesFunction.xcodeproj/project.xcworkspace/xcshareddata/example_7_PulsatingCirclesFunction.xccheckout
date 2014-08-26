@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6A54A4A5-6617-45CD-9C6B-262D49E57529</string>
+	<key>IDESourceControlProjectName</key>
+	<string>example_7_PulsatingCirclesFunction</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6CDC7C8F-7F0F-4D33-88E8-783AC7028B6E</key>
+		<string>https://github.com/ofcourseio/ofcourse_lecture_02_loops_functions_animations</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example_7_PulsatingCirclesFunction/example_7_PulsatingCirclesFunction.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6CDC7C8F-7F0F-4D33-88E8-783AC7028B6E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ofcourseio/ofcourse_lecture_02_loops_functions_animations</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6CDC7C8F-7F0F-4D33-88E8-783AC7028B6E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6CDC7C8F-7F0F-4D33-88E8-783AC7028B6E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofcourse_lecture_02_loops_functions_animations</string>
+		</dict>
+	</array>
+</dict>
+</plist>
